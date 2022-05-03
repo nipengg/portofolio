@@ -14,3 +14,18 @@
         @apply cursor-pointer;
     }
 }
+
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+.content-div:hover {
+    background-image: linear-gradient(
+        to right,
+        rgba(60, 73, 101, 0.8),
+        hsla(240, 18%, 19%, 0.8)
+    )!important;
+}

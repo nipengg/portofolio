@@ -30,23 +30,23 @@ const Skills = () => {
                         <p className='my-4'>Laravel</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
+                        <img className='w-20 mx-auto' src={JavaScript} alt="JS icon" />
                         <p className='my-4'>JAVASCRIPT</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
+                        <img className='w-20 mx-auto' src={ReactImg} alt="React icon" />
                         <p className='my-4'>REACT</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
+                        <img className='w-20 mx-auto' src={GitHub} alt="Git icon" />
                         <p className='my-4'>GITHUB</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Node} alt="HTML icon" />
+                        <img className='w-20 mx-auto' src={Node} alt="Node icon" />
                         <p className='my-4'>NODE JS</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                        <img className='w-20 mx-auto' src={Mongo} alt="HTML icon" />
+                        <img className='w-20 mx-auto' src={Mongo} alt="Mongo icon" />
                         <p className='my-4'>MONGO DB</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
