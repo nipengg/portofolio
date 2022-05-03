@@ -24,7 +24,7 @@ const About = () => {
                 I'm really interested in tech related stuff. Right now I'm exploring and learning in web development using php or javascript.
                 Right now I focused on learning Javascript Framework like React and NodeJS
                 I am passionate about building excellent software that improves the lives of those around me.
-                I do other things like playing games or travelling
+                I do other things like playing games or travelling.
                 </p>
             </div>
         </div>
